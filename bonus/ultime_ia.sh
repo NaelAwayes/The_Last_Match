@@ -31,7 +31,7 @@ main ()
         bask=$?
         let "nb_turn = nb_turn + 1"
     done
-    echo -e "Je ne peu pas perdre!\nDu coups tu a perdu...\nIdiot!"
+    echo -e "Je ne peux pas perdre!\n Tu vas donc perdre à ma place !"
 }
 
 if [ $# -ne 1 ]
