@@ -14,6 +14,6 @@ The Usage for the script is : `USAGE : ./thelastmatch.sh [number_of_lines]` wher
 
 Then when prompted, you have to type first the number of the line where you want to remove matches, and then the amount of matches you want to remove from that line.
 
-You're playing against an (kind of stupid, it is random) IA, but a PVP script is available in the "bonus folder".
+You're playing against an (kind of stupid, it is random) AI, but a PVP script is available in the "bonus folder", along with other, somehow more elaborated, AIs.
 
 #### HAVE FUN !
