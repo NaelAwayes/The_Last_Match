@@ -27,7 +27,7 @@ main ()
             let "turn = turn - 1"
         else
             ia_base
-	    echo "IA deppasser"
+	    echo "IA random"
             let "turn = turn + 1"
         fi
         is_empty
